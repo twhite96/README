@@ -59,7 +59,7 @@ I can take your feedback. I am curious by nature and will ask a ton of questions
 - **How should people set time with you?** I never have Slack, Discord, etc open. I'm really sorry but I find them distracting when I am working. When I am working on a team, I keep these apps open but only have @mentions, DMs, or keywords notify me. If you'd like to chat and set time with me, DM me on Twitter or Slack so we can put some time on my calendar.
 - **What's the best way to discuss issues with you?** Give it to me straight, no chaser. No one likes that. But also, don't be mean about it.
 - **How do you define "Done"?** This is hard because I pay attention to every little detail. I work painstakingly on little flourishes or features I promised I'd get delivered and this can be a really bad flaw of mine. Having an MVP is valuable and [learning to ship](https://seths.blog/wp-content/uploads/2012/05/theshipitjournal.pdf) is something I am working on.
-- **When are you available?** I am a night owl unfortunately but looking to change this. I am currently om the East Coast typing this at 9:45 pm and I am not even remotely tired. I can of course do morning work if it calls for it.
+- **When are you available?** I am a night owl unfortunately but looking to change this. I am currently on the East Coast typing this at 9:45 pm and I am not even remotely tired. I can of course do morning work if it calls for it.
 
 ## Personality quirks
 - I am reserved and quiet. I tend to observe a situation before speaking up. I need to know that the conversation will move forward and will not be bogged down by small talk. 
