@@ -1,81 +1,81 @@
-# Hi, I'm swyx
+# Hi, I'm Tiffany
 
 ## Why read me?
 
-I'm writing this in the hope that we can fast forward through some getting-to-know-you facets of me that we might miss (of course doing so IRL is better, but not always possible).
+I got this idea from [swyx](https://twitter.com/swyx). This is like a living document that showcases who I am, my strength, weaknesses, and what others have said my strengths and weaknesses are.
 
-I am really keen to do great work with/for you and I can be extremely, extraordinarily creative and productive under the right conditions.
+I want to build cool stuff, and I hope to be able to do that with your team. As someone leveling up, I *do* have some lingering junior engineer habits that I am trying to shake.
 
-I am also very imperfect and I hope that my transparency about them here is not treated as an excuse for my flaws but as a guide for you to know how I might fail. Consider this an open invite for you to call me out and prevent bigger pain down the road.
+No one is perfect, and I hope that sharing what my failure points are and where I am strong team-wise and problem solving-wise will help us both make an informed decision.
 
 ## My former role
 
-I was a DX Engineer at Netlify from 2018-2020. <details><summary>My job description is below.</summary>
+I was a Frontend Developer at ICF from 2019-2020. <details><summary>My job description is below.</summary>
 
-- The DX team is focused on empowering developers (customers & partners) by making it as easy &
-streamlined as possible for them to build awesome stuff on top of the expanding Netlify Platform.
-- The DX team are the internal dogfooders. They stretch, bend, and break the tools Netlify offer to
-make things better for the ever expanding group of developers.
-- DX work closely with product, support, docs, users & partners to push the product to new heights,
-teach users what is possible with the JAMstack, and build tooling/docs/demos to attract people into
-the Netlify ecosystem.
-- As a DX engineer you will be immersed in a wild range of projects:
-  - Building demo applications with bleeding edge tech
-  - Coming up with innovative & creative ways to build things on Netlify
-  - Working with other SAAS companies and onboarding them as partner integrations
-  - Building a world class developer experiences including tooling, CLI
-  - Creating content/talks/presentations spreading awareness on what’s truly possible on Netlify
-  - Helping close enterprise sales
+- The frontend team was responsible for maintaining and rebuilding legacy UIs for the United States government.
+- The frontend team was small but productive under tight deadlines and constraints.
+- Frontend devs at ICF work closely with team leads and are expected to follow deployment procedures and ask questions before pushing to production.
+- As a Frontend developer you will be immersed in a wild range of similar projects, with varying levels of government clients:
+  - Maintaining UIs on most US government web properties
+  - Working with designers to rebuild and modernize government systems
+  - Speaking with multiple clients from all branches of US government and stating clearly and explicitly what is being done and when it will be completed
+  - Moving Jira tickets within a reasonable amount of time
+  - Working on virtual machines and using continuous integration/testing with Jenkins
+  - Working with AWS
 
-In other words: this is a growth + engineering role that traverses from top of funnel (awareness and
-education in talks, podcasts, blogs, seminars and workshops) through on-boarding developers into
-the product, helping to reduce churn, and improve engagement as well as revenue expansion.
+In other words: this is a fast-moving, highly controlled, and tightly budgeted consulting job. The developers are good people and the frontend team is close. As a first job, it may not be ideal, depending on your experience and comfort level with moving fast.
 </details>
 
-I will be starting a new job later in 2020, but meanwhile, I am writing [a Career Advice book](https://gumroad.com/products/bAZJq/).
+I am currently looking for my next role. If you're interested in talking, <a href="mailto:tiffany@tiffanyrwhite.com">come say hi!</a>
   
 ## Me in a few words
 
-- Born and raised in Singapore, family are all still there and I visit at least once a year. My baby sister is the most important person in the world to me and she is learning to be a dentist!
-- Came to the US for college in 2007
-- Started my career trading equities, interest rate, currency, and volatility derivatives in investment banks/hedge funds
-- Made apps for risk management, pricing, and portfolio management in Python and Haskell as part of the job
-- After a brief run in product management decided to make engineering my fulltime job as it's what I enjoy most
-- Went through [Fullstack](http://fullstackacademy.com/) to get up to speed on JS as JS is everywhere
-- Started being active in [Dev Twitter](https://twitter.com/swyx), speaking in the [NYC tech meetup scene](https://nyc.js.org/), and moderating [/r/reactjs](https://www.reddit.com/r/reactjs).
-- My full english + chinese name is Shawn Wang Yue Xian, when I was 13 people started calling me "swyx" and it stuck.
+- Born in Pittsburgh and raised in Harrisburg, PA, I grew up in small lower-middle class neighborhood.
+- I attended Catholic school for the first 8 years of my primary education
+- I then went to Harrisburg High, a poor district in the middle of PA. Talk about a culture shock!
+- Went to college at 23 and bounced from major to major, including electronics engineering, physics, english lit, and then computer science before deciding I hated sitting in classrooms learning things that did not pertain to what I wanted to do as a career.
+- I moved to Pittsburgh in 2012 to go to Pitt and get acquainted with my roots.
+- I became on official college dropout after many years trying to figure out what I wanted to do.
+- Started learning at [freeCodeCamp](https://freeCodeCamp.org/) to get up to speed on JS as JS is everywhere
+- I went to several local meetups and created a Twitter account, diving head first into the world that is [Dev Twitter](https://twitter.com/tiffanywhitedev).
+- I used to hate being called Tiff when I was younger but now I really don't care.
+- I just recently started lifitng weights again and am really enjoying it!
 
 ## What I believe most
 
-1. **[Learn in Public](https://twitter.com/swyx/status/1009174159690264579)**: I prefer to share what I learn and work on, after doing my level best, but before it is perfect. This means I will be wrong more often than most people, but I respond very well to people who correct me because I always reserve the right to be wrong. I do not share everything, in particular my political views.
-2. **Systems over Goals**: There are things I can control and things I can't. Of the things I can control I focus on the items I can work on more frequently that can compound, and get me tangibly closer toward a goal. But the goal isn't the point. The goal doesn't matter. It is the system that sustainably gets me there that is everything, and I welcome the opportunity to periodically take a step back and work on the system instead of working in the system. 
-3. **Intrinsic Drive over Extrinsic Motivation**: [Drive](https://twitter.com/swyx/status/968688836468453376) is a wake-up call to me. I don't quite know what it means yet in the context of work but I definitely function like this. For Netlify it probably maps closest to the team value of Empowerment. I will come up with (too many) ideas and welcome criticism of them, and in return don't take my criticism of your ideas as a criticism of you.
+1. **[Learn in Public](https://twitter.com/swyx/status/1009174159690264579)**: I [started a blog](https://tiffanywhite.dev) on Jan 1st, 2015 after picking up learning how to code. It was being preached at the time to share what you're learning so employers can see what you're doing and how you're progressing and doing so landed me a few interviews early on and even two interviews at *big* tech companies.
+2. **Asking the right questions**: There may not be any dumb questions, but there certainly *are* wrong ones. When we set out to build something, one of the first questions we should ask is, *does this solve a problem* and if it does, *how does this problem effect our users*. Is there a specific part of the problem we could attack first and if so is it the *right* problem to tackle *at this time*? I like to break things down into smaller pieces and attack from there. 
+
 
 ## Accountability
 
-The general thrust of this is: lets agree upon what we need done and why (I'll always have a suggestion), enable me with resources and knowledge, and check in frequently while I throw myself at it.
+I can take your feedback. I am curious by nature and will ask a ton of questions in order to make sure I have the crux of the issue down, and will generally work it out from there.
 
-1. **Start with Why**: I generally (but don't literally) believe in [asking 5 Whys](https://en.wikipedia.org/wiki/5_Whys) and will often question why we are doing a thing as it may not be the best way of achieving our ultimate intended goal.
-2. **Frequent, Specific Deliverables**: I work best when I know exactly what is expected of me. I'm also a sprinter and will move heaven and earth to deliver something I've signed up to deliver.
-3. **Stretch**: I have no problem signing up for things slightly out of my comfort zone and knowledge level, in fact I love the challenge and do my best work on the edge.
+1. **Frequent, Specific Deliverables**: Small chunks of big projects are the best way to utilize my skillset at the moment. Projects with ambiguous directions or projects that make assumptions about what I already know will hinder not just me, but the team as well.
+2. **Stretch**: I get excited about new challenges and things slightly outside my skill level. I will occasionally ask for something that I know will challenge me but within my skillset.
 
 ## How I Work
 
-- **How should people set time with you?** I may close Slack when in the flow of things, so I may not always be present there. I check email about twice a day. I generally like scheduling video chats with a day's notice. You can also book time on my calendar whenever i'm not free and then send me a note.
-- **What's the best way to discuss issues with you?** I am extremely open to direct 1 on 1 feedback and don't need a [compliment sandwich](https://www.quickbase.com/blog/stop-using-the-compliment-sandwich-and-give-better-feedback).
-- **How do you define "Done"?**
-- **When are you available?** I am a night owl regardless of time zone, weird but true. I am currently in New York City and typing this at 4am in the morning. I can of course do morning work if it calls for it, but I'm just sharing my weird default.
+- **How should people set time with you?** I never have Slack, Discord, etc open. I'm really sorry but I find them distracting when I am working. When I am working on a team, I keep these apps open but only have @mentions, DMs, or keywords notify me. If you'd like to chat and set time with me, DM me on Twitter or Slack so we can put some time on my calendar.
+- **What's the best way to discuss issues with you?** Give it to me sttaight, no chaser. No one likes that. But also, don't be an ass about it.
+- **How do you define "Done"?** This is hard because I pay attention to every little detail. I work painstakingly on little flourishes or features I promised I'd get delivered and this can be a really bad flaw of mine. Having an MVP is valuable and [learning to ship](https://seths.blog/wp-content/uploads/2012/05/theshipitjournal.pdf) is something I am working on.
+- **When are you available?** I am a night owl unfortunately but looking to change this. I am currently om the East Coast typing this at 9:45 pm and I am not even remotely tired. I can of course do morning work if it calls for it.
 
 ## Personality quirks
-
+- I am reserved and quiet. I tend to observe a situation before speaking up. I need to know that the conversation will move forward and will not be bogged down by small talk. 
+- I need to focus on the work when work needs done, without being interrupted by water cooler chat. It's great to talk to your colleagues and managers but it's distracting when there is a deadline or feature I need to get shipped. I'm not saying I *don't* like to have relationships with my peers, but until I really get a sense *of* those peers it is hard for me to engage.
 
 
 ## [Known Failure Modes](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
 
 - *This is a non-exhaustive list; there are definitely more things I can't think of right now.*
+- Like the above, I have a hard time communicating. I get way too deep into my own head, my own thought, the docs, or whatever and I shut completely down in order to solve a problem. I've been far too independent like this since I was just a toddler and it is a hard habit to break.
+- I focus too much on one ticket and don't move things forward, according to my managers at the last job I had. Right as I was getting the hang of this we had layoffs and I was one of those laid off. It is extremely hard for me to let things go unfinished or broken. I am working on this.
 
 # Misc
 
 This idea comes from [Manager README's](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) - I'm no manager but I like the idea of READMEs to accelerate getting-to-know-you phases, especially asynchronously. So I'm trying this out.
 
 This is a living document and I hope to update it as I refine my self-knowledge over time. kick me if you think it needs an update.
+
+Thanks again to [swyx](https://swyx.io/) for this idea!
