@@ -31,12 +31,12 @@ I am currently looking for my next role. If you're interested in talking, <a hre
 ## Me in a few words
 
 - Born in Pittsburgh and raised in Harrisburg, PA, I grew up in small lower-middle class neighborhood.
-- I attended Catholic school for the first 8 years of my primary education
+- I attended Catholic school for the first 8 years of my primary education.
 - I then went to Harrisburg High, a poor district in the middle of PA. Talk about a culture shock!
 - Went to college at 23 and bounced from major to major, including electronics engineering, physics, english lit, and then computer science before deciding I hated sitting in classrooms learning things that did not pertain to what I wanted to do as a career.
 - I moved to Pittsburgh in 2012 to go to Pitt and get acquainted with my roots.
 - I became on official college dropout after many years trying to figure out what I wanted to do.
-- Started learning at [freeCodeCamp](https://freeCodeCamp.org/) to get up to speed on JS as JS is everywhere
+- Started learning at [freeCodeCamp](https://freeCodeCamp.org/) to get up to speed on JS as JS is everywhere.
 - I went to several local meetups and created a Twitter account, diving head first into the world that is [Dev Twitter](https://twitter.com/tiffanywhitedev).
 - I used to hate being called Tiff when I was younger but now I really don't care.
 - I just recently started lifitng weights again and am really enjoying it!
