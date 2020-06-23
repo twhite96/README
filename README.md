@@ -69,7 +69,7 @@ I can take your feedback. I am curious by nature and will ask a ton of questions
 ## [Known Failure Modes](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
 
 - *This is a non-exhaustive list; there are definitely more things I can't think of right now.*
-- Like the above, I have a hard time communicating. I get way too deep into my own head, my own thought, the docs, or whatever and I shut completely down in order to solve a problem. I've been far too independent like this since I was just a toddler and it is a hard habit to break.
+- Like the above, I have a hard time communicating. I get way too deep into my own head, my own thoughts, the docs, or whatever and I shut completely down in order to solve a problem. I've been far too independent like this since I was just a toddler and it is a hard habit to break.
 - I focus too much on one ticket and don't move things forward, according to my managers at the last job I had. Right as I was getting the hang of this we had layoffs and I was one of those laid off. It is extremely hard for me to let things go unfinished or broken. I am working on this.
 
 # Misc
